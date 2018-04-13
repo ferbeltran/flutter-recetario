@@ -1,5 +1,5 @@
    import 'package:flutter/material.dart';
-   import 'scaffold.dart';
+   import '../scaffold.dart';
 
    final otherScreen = new Screen(
      title: 'AFEDO CAMATE POFAVO',

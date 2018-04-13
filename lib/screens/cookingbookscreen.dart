@@ -1,6 +1,6 @@
    import 'package:flutter/material.dart';
-   import 'scaffold.dart';
-   import 'dishcard.dart';
+   import '../scaffold.dart';
+   import '../dishcard.dart';
    
    final Screen cookingBookScreen = new Screen(
      title: 'RECETARIO MEXICANO',
